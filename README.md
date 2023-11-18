@@ -11,6 +11,7 @@
 |**Enterprise service bus**|`Camel, Mule`|
 |**Identity and Access Management**|`Keycloak`|
 |**Object Storage**|`Minio`|
+|**Template engine**|`Thymeleaf`|
 |**Source Code Repository**|`Bitbucket, Github`|
 |**IDE**|`IntelliJ IDEA , STS , Eclipse , VSCode`|
 
