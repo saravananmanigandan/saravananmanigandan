@@ -12,6 +12,7 @@
 |**Identity and Access Management**|`Keycloak`|
 |**Object Storage**|`Minio`|
 |**Template engine**|`Thymeleaf`|
+|**XML formatting language**|`XSLT`|
 |**Source Code Repository**|`Bitbucket, Github`|
 |**IDE**|`IntelliJ IDEA , STS , Eclipse , VSCode`|
 
