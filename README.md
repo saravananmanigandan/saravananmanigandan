@@ -6,7 +6,7 @@
 |      Knowledge          |Knowledge On|
 |----------------|-------------------------------|
 |**Server Side**|`Spring Framework , Spring Boot, Hibernate, JPA, Struts, JSP , Resteasy`|
-|**Client Side**|`HTML , CSS , JS , Angular, Nodejs`|
+|**Client Side**|`HTML , CSS , JS , JQuery , Angular, Nodejs , Bootstrap`|
 |**Database**|`MySQL -> (procedure , Trigger, Functions,etc)`|
 |**Enterprise service bus**|`Camel, Mule`|
 |**Identity and Access Management**|`Keycloak`|
@@ -14,7 +14,7 @@
 |**Template engine**|`Thymeleaf`|
 |**XML formatting language**|`XSLT`|
 |**Source Code Repository**|`Bitbucket, Github`|
-|**IDE**|`IntelliJ IDEA , STS , Eclipse , VSCode`|
+|**IDE**|`IntelliJ IDEA , STS , Eclipse , VSCode , Theia IDE`|
 
 
 - 📫 How to reach me ...
