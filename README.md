@@ -1,26 +1,33 @@
-- 👋 Hi, I’m Manigandan Saravanan
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently Working on Java Enterprise Applications.
-- I have knowledge on the followings
-	- 
-|      Knowledge          |Knowledge On|
-|----------------|-------------------------------|
-|**Server Side**|`Spring Framework , Spring Boot, Hibernate, JPA, Struts, JSP , Resteasy`|
-|**Client Side**|`HTML , CSS , JS , JQuery , Angular, Nodejs , Bootstrap`|
-|**Database**|`MySQL -> (procedure , Trigger, Functions,etc)`|
-|**Enterprise service bus**|`Camel, Mule`|
-|**Identity and Access Management**|`Keycloak`|
-|**Object Storage**|`Minio`|
-|**Template engine**|`Thymeleaf`|
-|**XML formatting language**|`XSLT`|
-|**Source Code Repository**|`Bitbucket, Github`|
-|**IDE**|`IntelliJ IDEA , STS , Eclipse , VSCode , Theia IDE`|
+# Hi, I'm Manigandan Saravanan 👋
 
+## About Me
+- 👀 **Interests:** Software Development
+- 🌱 **Currently Working on:** Java Enterprise Applications
 
-- 📫 How to reach me ...
-- saravananmanigandan@gmail.com
+## Skills
+### Server Side
+- `Spring Framework`, `Spring Boot`, `Hibernate`, `JPA`, `Struts`, `JSP`, `Resteasy`
 
-<!---
-saravananmanigandan/saravananmanigandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Client Side
+- `HTML`, `CSS`, `JS`, `JQuery`, `Angular`, `Node.js`, `Bootstrap`
+
+### Database
+- `MySQL` (procedures, triggers, functions, etc.)
+
+### Enterprise Technologies
+- **Service Bus:** `Camel`, `Mule`
+- **Identity & Access Management:** `Keycloak`
+- **Object Storage:** `Minio`
+- **Template Engine:** `Thymeleaf`
+- **XML Formatting:** `XSLT`
+
+### Development Tools
+- **Source Code Repository:** `Bitbucket`, `GitHub`
+- **IDE:** `IntelliJ IDEA`, `STS`, `Eclipse`, `VSCode`, `Theia IDE`
+
+## Contact
+- 📫 How to reach me: [saravananmanigandan@gmail.com](mailto:saravananmanigandan@gmail.com)
+
+---
+
+<small>Note: This profile is styled to reflect my areas of expertise in software development. Feel free to explore my projects!</small>
